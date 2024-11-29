@@ -4,7 +4,7 @@ nodePort: 31002
 containerPort: 8000
 image:
   repository: ghcr.io/kt-tnbns/ncd24-fastapi
-  tag: dev-ef03abe
+  tag: dev-4ee65fb
   pullPolicy: Always
 probe:
   enabled: true
